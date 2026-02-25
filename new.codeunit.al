@@ -1,3 +1,5 @@
+// NEW
+
 codeunit 50020 MyCodeunit
 {
     trigger OnRun()
